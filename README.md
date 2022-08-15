@@ -3,7 +3,7 @@ I'am Erkan from Turkey, and currently learning Devops Tools like Terraform, Kube
 
 Skills: Python | SQL | HTML | CSS | Linux | Cloud(AWS) | Docker | Kubernetes | Terraform 
 
-- 🔭 I’m currently working on this page. 
+ 
 
 
 
