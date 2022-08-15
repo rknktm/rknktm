@@ -11,8 +11,14 @@ Issued by Amazon Web Services Training and Certification
 
 
 
+  
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rknktm&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/rknktm)  
+- 📫 How to reach me: erkanoktem@gmail.com 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rknktm&show_icons=true&theme=dark)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rknktm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rknktm/)
+
