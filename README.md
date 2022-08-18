@@ -18,7 +18,7 @@ I'am Erkan from Turkey, and currently learning Devops Tools like Terraform, Kube
 
 ![Profile views](https://gpvc.arturio.dev/rknktm)  
 ### 📫 How to reach me: 
-- erkanoktem@gmail.com 
+- rknktm@hotmail.com 
 - https://registry.terraform.io/namespaces/rknktm
 
 
