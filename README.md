@@ -2,7 +2,7 @@
 I'am Erkan from Turkey, and currently learning Devops Tools like Terraform, Kubernetes, Docker, Ansible as weel as  programming language like Python.Learning new tools make me more curious and more investigative. I’m a fan of lifelong learning and personal development. I love being in the DevOps culture and I believe it will spread all over the world. I hope that soon I will be able to take my place among the employees of the industry.
 
 ## Skills: 
-#### | Kubernetes | Cloud(AWS) | Docker | Terraform | Python | Linux | SQL | HTML | CSS |
+#### | Kubernetes | Cloud(AWS) | Docker | Terraform | Ansible | Python | Linux | SQL | HTML | CSS |
 
 ### AWS Certified Solutions Architect – Associate
 #### Issued by Amazon Web Services Training and Certification
