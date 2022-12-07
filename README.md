@@ -7,7 +7,8 @@ I'am Erkan from Turkey, and currently learning Devops Tools like Terraform, Kube
 ### CKA: Certified Kubernetes Administrator
 #### Issued by The Linux Foundation
 
-![cka_from_cncfsite__281_29](https://user-images.githubusercontent.com/93790536/206297745-43225533-dd6c-456e-80cb-eac05d27c3d3.png)
+![cka_from_cncfsite__281_29](https://user-images.githubusercontent.com/93790536/206298182-5e74fefe-386a-4376-a987-1657eec7ad53.png)
+
 
 
 ### AWS Certified Solutions Architect – Associate
