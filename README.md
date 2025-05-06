@@ -1,5 +1,10 @@
-### Hi there 👋
-I'am Erkan from Turkey, and currently learning Devops Tools like Terraform, Kubernetes, Docker, Ansible as weel as  programming language like Python.Learning new tools make me more curious and more investigative. I’m a fan of lifelong learning and personal development. I love being in the DevOps culture and I believe it will spread all over the world. I hope that soon I will be able to take my place among the employees of the industry.
+### Hallo 👋
+„
+Ich bin Erkan aus der Türkei und habe 18 Monate Berufserfahrung als Technical Operation Engineer, in denen ich an verschiedenen Projekten mitgewirkt habe. Dabei konnte ich nicht nur meine technischen Kenntnisse vertiefen, sondern auch wertvolle Erfahrungen in der Zusammenarbeit im Team sammeln.
+
+Derzeit erweitere ich mein Wissen im Bereich Systemadministration mit Fokus auf Windows-, Linux-Administration sowie Netzwerktechnik. Zudem arbeite ich mit modernen DevOps-Tools wie Terraform, Kubernetes, Docker und Ansible und verfüge über Programmierkenntnisse in Python und PHP.
+
+Ich bin technikbegeistert, lerne gerne neue Tools kennen und strebe kontinuierlich nach persönlicher und fachlicher Weiterentwicklung. Die DevOps-Kultur begeistert mich sehr – mein Ziel ist es, mich langfristig in der IT-Branche zu etablieren und aktiv zum Erfolg innovativer Projekte beizutragen."
 
 ## Skills: 
 #### | Kubernetes | Cloud(AWS) | Docker | Terraform | Ansible | Jenkins | Python | Linux | SQL | HTML | CSS |
