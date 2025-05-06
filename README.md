@@ -1,6 +1,6 @@
 ### Hallo 👋
 „
-Ich bin Erkan aus der Türkei und habe 18 Monate Berufserfahrung als Technical Operation Engineer, in denen ich an verschiedenen Projekten mitgewirkt habe. Dabei konnte ich nicht nur meine technischen Kenntnisse vertiefen, sondern auch wertvolle Erfahrungen in der Zusammenarbeit im Team sammeln.
+Ich bin Erkan aus der Türkei und habe 18 Monate Berufserfahrung als Operation Engineer, in denen ich an verschiedenen Projekten mitgewirkt habe. Dabei konnte ich nicht nur meine technischen Kenntnisse vertiefen, sondern auch wertvolle Erfahrungen in der Zusammenarbeit im Team sammeln.
 
 Derzeit erweitere ich mein Wissen im Bereich Systemadministration mit Fokus auf Windows-, Linux-Administration sowie Netzwerktechnik. Zudem arbeite ich mit modernen DevOps-Tools wie Terraform, Kubernetes, Docker und Ansible und verfüge über Programmierkenntnisse in Python und PHP.
 
